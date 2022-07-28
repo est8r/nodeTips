@@ -1,0 +1,22 @@
+{
+  "name": "dicas-dev",
+  "version": "1.0.0",
+  "description": "Sprint de criação de rotas contendo dicas aleatorias para devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/est8r/nodeTips.git"
+  },
+  "author": "Ester Messias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/est8r/nodeTips/issues"
+  },
+  "homepage": "https://github.com/est8r/nodeTips#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
